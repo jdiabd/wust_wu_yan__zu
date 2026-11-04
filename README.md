@@ -4,7 +4,7 @@
 >
 > **纯原生 HTML / CSS / JavaScript，零第三方依赖，自研圆形刚体物理引擎，双击就能玩。**
 
-**在线试玩：** https://jdiabd.github.io/wust_wu_yan_zu/
+**在线试玩：** https://jdiabd.github.io/wust_wu_yan__zu/
 
 ---
 
