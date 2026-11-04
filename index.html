@@ -733,8 +733,8 @@ body::after {
     dangerY: 118,        // 危险线：奶蛙静止后顶部越线超过 grace 秒即失败
     dropY: 72,           // 待落奶蛙的悬停高度
     gravity: 1900,       // px/s²
-    restitution: 0.04,   // 弹性（接近 0，堆叠更稳）
-    friction: 0.30,      // 摩擦
+    restitution: 0.1,   // 弹性（接近 0，堆叠更稳）
+    friction: 0.15,      // 摩擦
     substeps: 4,         // 每个固定帧拆成 4 个物理子步
     iterations: 6,       // 每个子步迭代求解 6 次
     slop: 0.08,          // 允许的穿透容差
